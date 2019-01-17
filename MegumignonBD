@@ -278,6 +278,13 @@
 .theme-dark .keybindShortcut-1BD6Z1 span {
     box-shadow: inset 0 -4px 0 var(--accent-color);
 }
+/* animations for direct messages */
+.channel-2QD9_O.selected-1HYmZZ a {
+/*	transition: all 0.5s ease-in;*/
+}
+.popoutLeft-30WmrD.noArrow-3BYQ0Z {
+/*	transition: all 0.1s ease-in;*/
+}
 /* store some backgrounds */
 .theme-dark .tileMedia-24cT6_ {
     background-color: var(--submenu-color);
@@ -339,6 +346,7 @@
     color: #b9bbbe!important;
 }
 /* extra code */
+/*.ui-tab-bar {transition:0.2s;}*/
 
 /* Spotify, steam and league of legends boxes at connections */
 .theme-dark .elevationLow-2lY09M[style*="background-color: rgb(2, 31, 37);"] {
